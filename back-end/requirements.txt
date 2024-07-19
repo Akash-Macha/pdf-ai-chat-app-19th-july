@@ -13,5 +13,5 @@ tiktoken
 
 pydantic<2
 
-streamlit==1.18.1
-streamlit-extras
+# streamlit==1.18.1
+# streamlit-extras
